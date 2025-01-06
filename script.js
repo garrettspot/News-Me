@@ -1,4 +1,4 @@
-const NEWS_API_KEY = '4368033c3ba841698ba47777c51bdb98';
+const NEWS_API_KEY = 'b65b842a809c4d09a17c641412ae8250';
 
 const state = {
     selectedCategories: new Set([]),
